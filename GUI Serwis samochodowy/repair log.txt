@@ -1,0 +1,5 @@
+Repair was carried on service spot id 0 vehicle in repair id 2 name Alvis Stalwart engine displacment 6.5 engine type PETROL_ENGINE repair started on 2021-07-29 end of the repair 2021-07-30 it costs 40.0
+Repair was carried on service spot id 1 vehicle in repair id 8 name Tesla model 3 engine displacment 0.0 engine type ELECTRICAL_ENGINES repair started on 2021-07-29 end of the repair 2021-08-03 it costs 200.0
+Repair was carried on service spot id 2 vehicle in repair id 4 name Suzuki samurai engine displacment 2.5 engine type PETROL_ENGINE repair started on 2021-07-29 end of the repair 2021-07-30 it costs 40.0
+Repair was carried on service spot id 3 vehicle in repair id 6 name Nissan Leaf engine displacment 0.0 engine type ELECTRICAL_ENGINES repair started on 2021-07-29 end of the repair 2021-07-30 it costs 40.0
+Repair was carried on service spot id 0 vehicle in repair id 10 name Hornet CJ750Y engine displacment 0.75 engine type PETROL_ENGINE repair started on 2021-07-31 end of the repair 2021-08-02 it costs 80.0
